@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VadoSVad&theme=radical)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VadoSVad&theme=radical)
+
+<img src="https://komarev.com/ghpvc/?username=VadosVad&color=blueviolet&style=Plastic">
