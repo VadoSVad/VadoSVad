@@ -1,11 +1,8 @@
 # Hi there 👋
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VadoSVad&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VadoSVad&show_icons=true&theme=radical)
 
-<div align="center">
-  <img src="https://github.com/VadosVad/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
-  <img src="https://github.com/VadosVad/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
-  <img src="https://github.com/VadosVad/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only#gh-light-mode-only" />
-  <img src="https://github.com/VadosVad/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only#gh-light-mode-only" />
-</div>
 
-<img src="https://komarev.com/ghpvc/?username=VadosVad&color=blueviolet&style=Plastic">
+
+<img src="https://komarev.com/ghpvc/?username=VadoSVad&color=blueviolet&style=Plastic">
