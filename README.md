@@ -15,7 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VadoSVad&theme=radical)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VadoSVad&theme=radical)
+<div align="center">
+  <img src="https://github.com/VadoSVad/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+  <img src="https://github.com/VadoSVad/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
+  <img src="https://github.com/VadoSVad/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only#gh-light-mode-only" />
+  <img src="https://github.com/VadoSVad/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only#gh-light-mode-only" />
+</div>
 
-<img src="https://komarev.com/ghpvc/?username=VadosVad&color=blueviolet&style=Plastic">
+<img src="https://komarev.com/ghpvc/?username=VadoSVad&color=blueviolet&style=Plastic">
