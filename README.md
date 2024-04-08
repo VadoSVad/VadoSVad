@@ -1,6 +1,6 @@
 # Hi there 👋
 
-Я начинающий Frontend-разработчик
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Beginner+frontend+developer)](https://git.io/typing-svg)
 
 Немного о скиллах:
 * Html, Css - средне-высокий
